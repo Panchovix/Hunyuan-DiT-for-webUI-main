@@ -1,3 +1,4 @@
+Fork of https://github.com/DenOfEquity/Hunyuan-DiT-for-webUI for reforge
 ## Hunyuan-DiT for webui ##
 ### Forge tested, probably A1111 too ###
 I don't think there is anything Forge specific here.
